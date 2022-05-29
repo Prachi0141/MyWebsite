@@ -1,0 +1,29 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prachi0141/Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Prachi0141/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Prachi0141/Portfolio#readme",
+  "description": "",
+  "dependencies": {
+    "@chakra-ui/react": "^2.1.2",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "framer-motion": "^6.3.4",
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
